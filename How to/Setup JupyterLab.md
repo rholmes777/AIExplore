@@ -147,3 +147,5 @@ Since you’re using a MacBook Pro with Homebrew and `pyenv` for Python developm
 - **Mac Compatibility**: Works seamlessly with Homebrew-managed tools and macOS.
 
 Let me know if you’d like help troubleshooting, adding extensions, or integrating it with specific workflows!
+
+[Link to Grok conversation](https://grok.com/share/bGVnYWN5_1dada257-a093-4dac-b130-2f8e37395b23)
