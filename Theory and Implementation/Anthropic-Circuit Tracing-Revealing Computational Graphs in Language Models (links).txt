@@ -1,0 +1,17 @@
+Anthropic: Circuit Tracing: Revealing Computational Graphs in Language Models
+
+Several links to papers on tracing the thoughts of an AI during it's "thinking" process.
+Summary/Video (?)
+    Tracing the thoughts of a large language model
+    https://www.anthropic.com/news/tracing-thoughts-language-model
+    https://www.youtube.com/watch?v=Bj9BD2D3DzA
+
+(Transformer Circuits Thread): https://transformer-circuits.pub
+
+Circuit Tracing: Revealing Computational Graphs in Language Models:
+    https://transformer-circuits.pub/2025/attribution-graphs/methods.html
+
+On the Biology of a Large Language Model
+    https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+    
+    
