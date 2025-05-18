@@ -1,0 +1,5 @@
+A high-fantasy digital painting in 3:2 landscape format. The scene is an ancient chamber deep beneath a magical bureaucracy. In the center stands a massive, carved stone gauge marked “INNOVATION METER” in glowing runes. The semicircle arc reads from right to left: “INNOVATION,” “BREAKTHROUGH,” “GENIUS” → “OBSTRUCTION,” “BUREAUCRACY,” “SUPPRESSION.” A huge metallic pointer, like a mystical compass needle, is being pushed with great effort by a ragged technomancer in stained clerical robes marked “Corporate IT.” He braces his shoulder into the pointer as it fights back with magical resistance.
+
+Standing on a balcony above is a smug councilor in golden armor robes, watching with amusement and saying, “Can’t you push it lower?” His words appear as an enchanted scroll mid-air.
+
+On the far right, seated on a levitating platform, is a silent arch-monk in deep brown robes, face hidden in his hood. Behind him pulses a sealed arcane core — a magical AI engine glowing with blue glyphs and locked by chains of silver light. Floating sigils around the vault read: “ACCESS BANISHED,” “ADMIN POWER REVOKED,” and “PETITION UNANSWERED.”

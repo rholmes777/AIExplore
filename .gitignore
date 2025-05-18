@@ -81,8 +81,9 @@ celerybeat.pid
 # Rope project settings
 .ropeproject
 
-# Visual Studio Code
+# Visual Studio Code and other IDE-related items
 .vscode/
+.obsidian
 
 # Operating System
 .DS_Store

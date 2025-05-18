@@ -1,5 +1,3 @@
-Yes, Perplexity does have command line interface (CLI) options, both through official and community-developed tools.
-
 ## Official and Community CLI Tools
 
 **1. Community CLI Clients**

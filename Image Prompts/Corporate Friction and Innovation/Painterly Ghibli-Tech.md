@@ -1,0 +1,5 @@
+A painterly digital illustration inspired by Studio Ghibli and magical realism, in a soft 3:2 landscape. The scene is set in a whimsical yet bureaucratic corporate chamber filled with soft shadows, ivy creeping in through glass windows, and glowing glyphs etched into polished stone. In the center is a giant, ornate gauge labeled “INNOVATION METER” across a curved arc, with zones labeled from right to left: “INNOVATION,” “BREAKTHROUGH,” “CREATIVITY” → “BUREAUCRACY,” “FRICTION,” “SUPPRESSION.” The indicator is a long, enchanted bronze pointer, physically pushed leftward by a disheveled man labeled “Corporate IT” — sleeves torn, straining, visibly tired. He’s braced against the pointer like it’s a magical artifact resisting him.
+
+Near him floats a calm, ghostly bureaucrat with a clipboard and a passive face, saying: “Can’t you push it down any further?”
+
+On the far right sits a tranquil monk-like figure in a flowing brown robe, with a calm, luminous face. Behind him pulses a glowing AI core like a sacred crystal — locked with floating chains and rings inscribed with sigils. The scene glows softly, with warm blues, greens, and firefly lights drifting around.
