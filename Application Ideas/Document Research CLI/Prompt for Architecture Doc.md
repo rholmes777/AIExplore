@@ -1,0 +1,2 @@
+Explain the codebase structure and architecture to a newcomer. Identify key parts of the cli and commands, edit formats, communication with the user and the code under development, git integration, key object hierarchy, any interrupt mechanisms to terminate a long-running operation, resuming after stop or pause, memory handling and compacting, etc. Write into a markdown document called "Architecture.md" inside the docs/ folder.
+
