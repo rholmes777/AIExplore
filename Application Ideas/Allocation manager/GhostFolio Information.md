@@ -1,0 +1,3 @@
+- Can get plugins/extensions (called `topics`)
+	- [Topics](https://github.com/topics/ghostfolio)
+- 
