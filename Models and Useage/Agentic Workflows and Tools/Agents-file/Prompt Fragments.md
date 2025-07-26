@@ -7,9 +7,7 @@ Below are two copy‑ready artifacts:
 
 ---
 
-## **1 ▪** 
-
-## **Agents.md**
+## **1 ▪** **Agents.md**
 
 ##  **— Minimal Doc‑Generation Guide**
 
