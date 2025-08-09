@@ -44,9 +44,9 @@ Source code remains read‑only for analysis.
 ---
 
 ## 🛠️ Analysis Principles
-1. Use static inspection (AST, type reflection, build configs).
-2. Detect **architecture style** (layered, microservices, etc.) and any notable **design patterns** actually present.
-3. On partial failure, emit docs with clear `⚠️ WARNING` call‑outs; never abort.
+1. Use static inspection (AST, type reflection, build configs, flow tracing, etc.).
+2. Detect **architecture style** and any notable **design patterns** actually present.
+3. On partial failure, emit docs with clear `⚠️ WARNING` or "TODO" call‑outs; never abort.
 
 ---
 
