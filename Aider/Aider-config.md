@@ -9,26 +9,32 @@ Below is a single-page CLI and key-management cheat sheet you can paste into `ch
 200 = OK, 401 = bad key / no credits, 404 = model not enabled for this key.
 
 ### OpenAI – gpt-4o
+```bash
 curl -s -o /dev/null -w '%{http_code}\n' \
   https://api.openai.com/v1/chat/completions \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{"model":"gpt-4o","max_tokens":1,"messages":[{"role":"user","content":"ping"}]}'
+```
 
-## Perplexity – sonar-pro (OpenAI-compatible)
+### Perplexity – sonar-pro (OpenAI-compatible)
+```bash
 OPENAI_API_BASE=https://api.perplexity.ai \
 curl -s -o /dev/null -w '%{http_code}\n' \
   https://api.perplexity.ai/chat/completions \
   -H "Authorization: Bearer $PPLX_API_KEY" -H "Content-Type: application/json" \
   -d '{"model":"sonar-pro","max_tokens":1,"messages":[{"role":"user","content":"ping"}]}'
+```
 
-## Anthropic – claude-3-7-sonnet-20250219 (native)
+### Anthropic – claude-3-7-sonnet-20250219 (native)
+```bash
 curl -s -o /dev/null -w '%{http_code}\n' \
   https://api.anthropic.com/v1/messages \
   -H "x-api-key: $ANTHROPIC_API_KEY" \
   -H "anthropic-version: 2023-06-01" \
   -H "Content-Type: application/json" \
   -d '{"model":"claude-3-7-sonnet-20250219","max_tokens":1,"messages":[{"role":"user","content":"ping"}]}'
+```
 
 200 = OK, 401 = bad key / no credits, 404 = model not enabled for this key.
 
@@ -120,7 +126,6 @@ curl -s https://api.anthropic.com/v1/models \
 
 6. Upgrade Aider:
 
-/Users/rholmes/.local/pipx/venvs/aider-chat/bin/python -m pip install --upgrade --upgrade-strategy
-only-if-needed aider-chat
+/Users/rholmes/.local/pipx/venvs/aider-chat/bin/python -m pip install --upgrade --upgrade-strategy only-if-needed aider-chat
 
 Copy-paste ready. Adjust model IDs as Anthropic/OpenAI roll new versions.
