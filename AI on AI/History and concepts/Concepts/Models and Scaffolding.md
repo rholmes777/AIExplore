@@ -397,8 +397,7 @@ _(Regardless of window size, most production stacks still retrieve, rerank, and 
 - Semantic chunking & compression: LangChain/LlamaIndex semantic splitters; ContextualCompression; GraphRAG; LLMLingua/LongLLMLingua. ([LangChain](https://python.langchain.com/docs/how_to/semantic-chunker/?utm_source=chatgpt.com "How to split text based on semantic similarity"), [LlamaIndex](https://docs.llamaindex.ai/en/stable/examples/node_parsers/semantic_chunking/?utm_source=chatgpt.com "Semantic Chunker"), [Microsoft](https://www.microsoft.com/en-us/research/project/graphrag/?utm_source=chatgpt.com "Project GraphRAG - Microsoft Research"), [arXiv](https://arxiv.org/abs/2310.05736?utm_source=chatgpt.com "LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models"))
     
 - Cross‑session memory in products: ChatGPT memory controls; Copilot repository/workspace indexing & embedding search. ([OpenAI](https://openai.com/index/memory-and-new-controls-for-chatgpt/ "Memory and new controls for ChatGPT | OpenAI"), [GitHub Docs](https://docs.github.com/copilot/concepts/indexing-repositories-for-copilot-chat "Indexing repositories for Copilot Chat - GitHub Docs"), [Visual Studio Code](https://code.visualstudio.com/docs/copilot/reference/workspace-context "Making chat an expert in your workspace"), [The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/?utm_source=chatgpt.com "What is retrieval-augmented generation, and what does it do for ..."))
-    
 
 ---
 
-### If you want, I can sketch a minimal reference pipeline (LangChain/LlamaIndex + reranker + LLMLingua) and a prompt‑budgeting function you can drop into your agent.
+[Dynamic Context Windows](https://chatgpt.com/s/t_68a7de38f51c8191ac32288354e5a3e5)
