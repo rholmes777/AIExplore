@@ -40,6 +40,8 @@ _Key takeaway:_ The “above-the-model” stack—system prompt + context build
 ---
 
 ## 3 Context-Building & Memory
+#TODO: For "window mgmt" give management techniques, but omit hard-coded window limits. 
+#TODO: Do a search for information about the latest window management, session memory, and automatic retrieval using articles no older than 6 months ago. Update any additional information here. 
 
 |Feature|ChatGPT|Copilot|JetBrains|
 |---|---|---|---|

@@ -1,10 +1,14 @@
-Below is a single-page CLI & key-management cheat-sheet you can paste into cheatsheet.md or keep in your wiki.
+# Aider CLI and Key Management Cheatsheet
 
-⸻
+Below is a single-page CLI and key-management cheat sheet you can paste into `cheatsheet.md` or keep in your wiki.
 
-1 · One-liners for “Does my key + model work?”
+---
 
-## OpenAI – gpt-4o (expects 200)
+## 1. One-liners: “Does my key + model work?”
+
+200 = OK, 401 = bad key / no credits, 404 = model not enabled for this key.
+
+### OpenAI – gpt-4o
 curl -s -o /dev/null -w '%{http_code}\n' \
   https://api.openai.com/v1/chat/completions \
   -H "Authorization: Bearer $OPENAI_API_KEY" \
@@ -113,5 +117,10 @@ curl -s https://api.anthropic.com/v1/models \
 
 
 ⸻
+
+6. Upgrade Aider:
+
+/Users/rholmes/.local/pipx/venvs/aider-chat/bin/python -m pip install --upgrade --upgrade-strategy
+only-if-needed aider-chat
 
 Copy-paste ready. Adjust model IDs as Anthropic/OpenAI roll new versions.
